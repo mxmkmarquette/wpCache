@@ -1,0 +1,69 @@
+html,button,input,select,textarea{color:#333333;font-family:Menlo,'Andale Mono',monospace;}
+body{text-rendering:optimizeLegibility;background:#fff;}
+body{font-size:1em;line-height:1.5;}
+hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0;}
+img{vertical-align:middle;}
+fieldset{border:0;margin:0;padding:0;}
+textarea{resize:vertical;}
+.clearfix:before,.clearfix:after{content:" ";display:table;}
+.clearfix:after{clear:both;}
+.clearfix{*zoom:1;}
+input{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;}
+#content{margin-bottom:50px;}
+#head,#content,#foot{width:1024px;margin:0 auto;position:relative;}
+#head ul#nav,#head ul#subnav{list-style:none;margin:0;}#head ul#nav li,#head ul#subnav li{display:inline-block;}
+html,body{height:100%;margin:0;padding:0;}
+#wrap{height:100%;margin:0;padding:0;}
+body>#wrap{height:auto;min-height:100%;}
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+.clearfix{display:inline-block;}
+* html .clearfix{height:1%;}
+.clearfix{display:block;}
+#main{padding-bottom:30px;}
+#foot{position:relative;margin-top:-30px !important;height:30px;}
+@font-face{font-family:'BebasNeueRegular';src:url('../fonts/BebasNeue-webfont.eot');src:url('../fonts/BebasNeue-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/BebasNeue-webfont.woff') format('woff'),url('../fonts/BebasNeue-webfont.ttf') format('truetype'),url('../fonts/BebasNeue-webfont.svg#BebasNeueRegular') format('svg');font-weight:normal;font-style:normal;}body#demo{background:#101010 url('../img/bg.jp') center center;background-size:cover;font-family:'BebasNeueRegular';letter-spacing:0.05em;}body#demo .title{position:absolute;bottom:145px;left:25px;}body#demo .title h1 span,body#demo .title h2 span{color:#efefef;background:#101010;padding:16px 18px 8px 18px;font-size:85px;line-height:85px;display:inline-block;margin-bottom:15px; letter-spacing:0.05em;}
+body#demo{background:#101010 url('../img/bg.jpg') center center;}
+body#demo .title h2 span{padding:12px 15px 8px 15px;font-size:35px;line-height:35px; letter-spacing:0.08em;}
+body#demo .nav{position:absolute;width:100%;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;bottom:25px;left:0;background:#efefef;list-style:none;padding:0;padding-left:25px;}body#demo .nav li{display:inline-block;padding:12px 0 8px 0;font-size:35px;color:#101010;padding-right:25px;  letter-spacing:0.05em;}
+body#demo .nav a{color:#101010;text-decoration:none;}body#demo .nav a:hover{color:#404040;}
+body#demo .subnav{position:absolute;bottom:48px;right:25px;list-style:none;}body#demo .subnav li{display:inline-block;text-align:right;padding-left:35px;font-family:menlo,'Andale Mono',monospace;}body#demo .subnav li a{color:#404040;text-decoration:none;}body#demo .subnav li a:hover{color:#707070;}
+#head{position:relative;margin-bottom:45px;margin-top:15px;}#head #logo{font-family:'BebasNeueRegular';font-size:50px;letter-spacing:0.05em;}#head #logo a{text-decoration:none;color:#101010;}
+#head ul{position:absolute;top:25px;right:0;}#head ul li{margin-left:45px;}#head ul li a{color:#404040;text-decoration:none;font-weight:normal;} 
+
+.back-to-top {
+ 
+background: none;
+ 
+margin: 0;
+ 
+position: fixed;
+ 
+bottom: 0;
+ 
+right: 0;
+ 
+width: 60px;
+ 
+height: 60px;
+ 
+z-index: 100;
+ 
+display: none;
+ 
+text-decoration: none;
+ 
+color: #323230;
+ 
+background-color: #FFF;
+ 
+}
+
+.back-to-top i {
+ 
+  font-size: 50px;
+ 
+}
+
+#show-result{
+	margin-top: 20px;
+}
