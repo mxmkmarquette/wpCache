@@ -26,43 +26,10 @@ body#demo{background:#101010 url('../img/bg.jpg') center center;}
 body#demo .title h2 span{padding:12px 15px 8px 15px;font-size:35px;line-height:35px; letter-spacing:0.08em;}
 body#demo .nav{position:absolute;width:100%;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;bottom:25px;left:0;background:#efefef;list-style:none;padding:0;padding-left:25px;}body#demo .nav li{display:inline-block;padding:12px 0 8px 0;font-size:35px;color:#101010;padding-right:25px;  letter-spacing:0.05em;}
 body#demo .nav a{color:#101010;text-decoration:none;}body#demo .nav a:hover{color:#404040;}
-body#demo .subnav{position:absolute;bottom:48px;right:25px;list-style:none;}body#demo .subnav li{display:inline-block;text-align:right;padding-left:35px;font-family:menlo,'Andale Mono',monospace;}body#demo .subnav li a{color:#404040;text-decoration:none;}body#demo .subnav li a:hover{color:#707070;}
+body#demo .subnav{position:absolute;bottom:60px;left:40px;list-style:none;}body#demo .subnav li{display:inline-block;text-align:left;padding-left:50px;font-family:menlo,'Andale Mono',monospace;}body#demo .subnav li a{color:#404040;text-decoration:none;}body#demo .subnav li a:hover{color:#707070;}
 #head{position:relative;margin-bottom:45px;margin-top:15px;}#head #logo{font-family:'BebasNeueRegular';font-size:50px;letter-spacing:0.05em;}#head #logo a{text-decoration:none;color:#101010;}
 #head ul{position:absolute;top:25px;right:0;}#head ul li{margin-left:45px;}#head ul li a{color:#404040;text-decoration:none;font-weight:normal;} 
 
-.back-to-top {
- 
-background: none;
- 
-margin: 0;
- 
-position: fixed;
- 
-bottom: 0;
- 
-right: 0;
- 
-width: 60px;
- 
-height: 60px;
- 
-z-index: 100;
- 
-display: none;
- 
-text-decoration: none;
- 
-color: #323230;
- 
-background-color: #FFF;
- 
-}
-
-.back-to-top i {
- 
-  font-size: 50px;
- 
-}
 
 #show-result{
 	margin-top: 20px;
