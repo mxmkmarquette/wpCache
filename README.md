@@ -1,4 +1,4 @@
-# wpCache Version 1.6 13.10.2017
+# wpCache Version 1.9 01.02.2018
 
 wpCache® WordPress HTTP Cache
 
