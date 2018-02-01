@@ -1,3 +1,27 @@
+== v1.9 (01.02.2018) ============
+* Improved: Apache HTTP Server 2.4.x
+* Improved: PHP 7.1.13
+* Improved: nginx 1.13.8
+* Improved: Varnish Cache 5.2.1
+* Fixed: Minor bug
+
+== v1.8 (27.12.2017) ============
+* Added: Windows Server IIS
+* Improved: Apache HTTP Server 2.4
+* Improved: PHP 7.1.12
+* Improved: nginx 1.13.7
+* Improved: Varnish Cache 5.2.1
+* Fixed: Dashboard Theme Update
+* Fixed: Minor bug
+
+== v1.7 (24.11.2017) ============
+* Added: Cloudflare Modules API
+* Added: NGINX+ 1.13.7 HTTP/2, HTTPS, ngx_http_fastcgi_module
+* Improved: Varnish Software Modulators
+* Improved: PHP 7.1.11
+* Fixed: Dashboard Theme UI / UX
+* Fixed: Minor bug
+
 == v1.6 (13.10.2017) ============
 * Added: Yoast SEO
 * Improved: CDN URL is applied to internal images links
