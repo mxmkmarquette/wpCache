@@ -34,6 +34,12 @@ In this way it increases Server performance and all parameters for better data l
 
 Varnish Plus, built on top of wpCache®, gives advanced users access to a unique set of modules and expert support that enable secure, high-powered and scalable digital content delivery.
 
+# Join Partners & Wholesalers Program
+
+It’s easy and free to join. You only have to apply and then earn a commission on every sale you generate.
+
+https://wpcache.co/join-partners-wholesalers-program/
+
 
 # Finally, the Cache Plugin… wpCache® is here to shake the waters.
 
